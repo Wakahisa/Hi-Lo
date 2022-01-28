@@ -58,8 +58,8 @@ namespace Hi_Lo
             }else
             {
                 Console.WriteLine($"The number is at most {half}");
-                pot--;
             }
+            pot--;
         }
     }
 }
